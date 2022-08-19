@@ -15,7 +15,7 @@
 import { styled } from '@mui/material/styles';
 import ImageImage from './assets/new_images/Image.png';
 import Button1 from './Button1';
-
+import useCard from './useCard';
  
 const Card1 = styled("div")({  
   backgroundColor: `rgba(255, 255, 255, 1)`,  
@@ -81,13 +81,14 @@ const Button2 = styled(Button1)(({ theme }) =>({
 }));
  
 function Card(props) {
+  const {data} = useCard();
   return (
     <Card1 >
        <Image >
        </Image>
        <TextButton >
          <LoremIpsumTestToBeSe >
-           {`Lorem ipsum test to be seen and not read for placement only. Lorem ipsum test to be seen`}
+           {data.hello}
              </LoremIpsumTestToBeSe>
          <Button2   />
        </TextButton>
