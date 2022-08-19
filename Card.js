@@ -80,7 +80,7 @@ const Button2 = styled(Button1)(({ theme }) =>({
   margin: `30px 0px 0px 0px`,  
 }));
  
-function Card() {
+function Card(props) {
   return (
     <Card1 >
        <Image >
