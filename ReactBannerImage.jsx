@@ -13,13 +13,13 @@
 **********************************************************************/
 
 import React from 'react';
-import Icon1Image from './assets/images/icon_2.png';
-import DotImage from './assets/images/dot_6.png';
-import Dot1Image from './assets/images/dot_5.png';
-import Dot2Image from './assets/images/dot_4.png';
-import DividerImage from './assets/images/divider_2.png';
-import FigmaIconImage from './assets/images/Figma_Icon_2.png';
-import VidIconImage from './assets/images/Vid_Icon_2.png';
+import Icon1Image from './assets/hello/icon_2.png';
+import DotImage from './assets/hello/dot_6.png';
+import Dot1Image from './assets/hello/dot_5.png';
+import Dot2Image from './assets/hello/dot_4.png';
+import DividerImage from './assets/hello/divider_2.png';
+import FigmaIconImage from './assets/hello/Figma_Icon_2.png';
+import VidIconImage from './assets/hello/Vid_Icon_2.png';
 import { styled } from '@mui/material/styles';
 
  

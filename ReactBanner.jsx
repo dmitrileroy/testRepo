@@ -13,12 +13,12 @@
 **********************************************************************/
 
 import React from 'react';
-import CalendarImage from './assets/images/Calendar.png';
-import DividerImage from './assets/images/divider.png';
-import Icon1Image from './assets/images/icon.png';
-import BulletImage from './assets/images/bullet_1.png';
-import Bullet1Image from './assets/images/bullet.png';
-import VidIconImage from './assets/images/Vid_Icon.png';
+import CalendarImage from './assets/hello/Calendar.png';
+import DividerImage from './assets/hello/divider.png';
+import Icon1Image from './assets/hello/icon.png';
+import BulletImage from './assets/hello/bullet_1.png';
+import Bullet1Image from './assets/hello/bullet.png';
+import VidIconImage from './assets/hello/Vid_Icon.png';
 import { styled } from '@mui/material/styles';
 import useReactBanner from './useReactBanner';
  

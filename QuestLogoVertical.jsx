@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import React from 'react';
-import QuestLogoVertical1Image from './assets/images/Quest_Logo_Vertical.png';
+import QuestLogoVertical1Image from './assets/hello/Quest_Logo_Vertical.png';
 import { styled } from '@mui/material/styles';
 
  

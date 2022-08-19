@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import React from 'react';
-import SeparatorImage from './assets/images/Separator.png';
+import SeparatorImage from './assets/hello/Separator.png';
 import { styled } from '@mui/material/styles';
 import useAppBreadcrumbs from './useAppBreadcrumbs';
  

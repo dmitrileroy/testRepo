@@ -14,9 +14,9 @@
 
 import React from 'react';
 import { TextField, Button, Link, SvgIcon } from '@mui/material';
-import { ReactComponent as Delete1 } from './assets/images/Delete.svg';
-import { ReactComponent as Delete2 } from './assets/images/Delete.svg';
-import { ReactComponent as Delete3 } from './assets/images/Delete.svg';
+import { ReactComponent as Delete1 } from './assets/hello/Delete.svg';
+import { ReactComponent as Delete2 } from './assets/hello/Delete.svg';
+import { ReactComponent as Delete3 } from './assets/hello/Delete.svg';
 import { styled } from '@mui/material/styles';
 import DarkModeSwitch from './DarkModeSwitch';
 import useAppDetails from './useAppDetails';

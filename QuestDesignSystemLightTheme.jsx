@@ -4,13 +4,13 @@ import { createTheme } from "@mui/material/styles";
 
 import SvgIcon from '@mui/material/SvgIcon';
 
-import { ReactComponent as CheckCircleOutlined } from "./assets/images/CheckCircleOutlined.svg"; 
-import { ReactComponent as InfoOutlined } from "./assets/images/InfoOutlined.svg"; 
-import { ReactComponent as WarningAmberOutlined } from "./assets/images/WarningAmberOutlined.svg"; 
-import { ReactComponent as ErrorOutline } from "./assets/images/ErrorOutline.svg"; 
-import { ReactComponent as CheckBoxFilled } from "./assets/images/CheckBoxFilled.svg"; 
-import { ReactComponent as IndeterminateCheckBo } from "./assets/images/IndeterminateCheckBoxFilled.svg"; 
-import { ReactComponent as CheckBoxOutlineBlank } from "./assets/images/CheckBoxOutlineBlankOutlined.svg"; 
+import { ReactComponent as CheckCircleOutlined } from "./assets/hello/CheckCircleOutlined.svg"; 
+import { ReactComponent as InfoOutlined } from "./assets/hello/InfoOutlined.svg"; 
+import { ReactComponent as WarningAmberOutlined } from "./assets/hello/WarningAmberOutlined.svg"; 
+import { ReactComponent as ErrorOutline } from "./assets/hello/ErrorOutline.svg"; 
+import { ReactComponent as CheckBoxFilled } from "./assets/hello/CheckBoxFilled.svg"; 
+import { ReactComponent as IndeterminateCheckBo } from "./assets/hello/IndeterminateCheckBoxFilled.svg"; 
+import { ReactComponent as CheckBoxOutlineBlank } from "./assets/hello/CheckBoxOutlineBlankOutlined.svg"; 
    
 const globalTheme = createTheme({
   palette: {

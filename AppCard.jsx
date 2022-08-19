@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import React from 'react';
-import Click3DotsImage from './assets/images/click_3_dots.png';
+import Click3DotsImage from './assets/hello/click_3_dots.png';
 import { styled } from '@mui/material/styles';
 import useAppCard from './useAppCard';
  

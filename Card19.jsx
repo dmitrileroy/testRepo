@@ -15,7 +15,7 @@
 import React from 'react';
 import { Button } from '@mui/material';
 import { styled } from '@mui/material/styles';
-import ImageImage from './assets/images/Image.png';
+import ImageImage from './assets/hello/Image.png';
 
  
 const TypeQuest = styled("div")(({ theme }) =>({  

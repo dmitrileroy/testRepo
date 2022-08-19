@@ -13,9 +13,9 @@
 **********************************************************************/
 
 import React from 'react';
-import FooterFigma1Image from './assets/images/footer_figma_1.png';
-import FooterQ1Image from './assets/images/footer_q_1_1.png';
-import FooterQ11Image from './assets/images/footer_q_1.png';
+import FooterFigma1Image from './assets/hello/footer_figma_1.png';
+import FooterQ1Image from './assets/hello/footer_q_1_1.png';
+import FooterQ11Image from './assets/hello/footer_q_1.png';
 import { styled } from '@mui/material/styles';
 
  

@@ -16,7 +16,7 @@ import React from 'react';
 import { ThemeProvider, StyledEngineProvider } from '@mui/material/styles';
 import questTheme from './QuestDesignSystemLightTheme';
 import { Button } from '@mui/material';
-import TopArrowImage from './assets/images/top_arrow.png';
+import TopArrowImage from './assets/hello/top_arrow.png';
 import { styled } from '@mui/material/styles';
 import PickFileType from './PickFileType';
 import useExport from './useExport';

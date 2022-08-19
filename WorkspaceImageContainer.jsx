@@ -14,7 +14,7 @@
 
 import React from 'react';
 import { Button } from '@mui/material';
-import WorkspaceImageImage from './assets/images/Workspace_Image.png';
+import WorkspaceImageImage from './assets/hello/Workspace_Image.png';
 import { styled } from '@mui/material/styles';
 
  

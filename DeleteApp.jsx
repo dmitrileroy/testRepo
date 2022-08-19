@@ -15,7 +15,7 @@
 import React from 'react';
 import { TextField, Button } from '@mui/material';
 import { LoadingButton } from '@mui/lab';
-import VectorImage from './assets/images/Vector.png';
+import VectorImage from './assets/hello/Vector.png';
 import { styled } from '@mui/material/styles';
 import useDeleteApp from './useDeleteApp';
  

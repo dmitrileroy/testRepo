@@ -13,8 +13,8 @@
 **********************************************************************/
 
 import React from 'react';
-import SwitchDarkImage from './assets/images/switch_dark_2.png';
-import SwitchDark1Image from './assets/images/switch_dark_1.png';
+import SwitchDarkImage from './assets/hello/switch_dark_2.png';
+import SwitchDark1Image from './assets/hello/switch_dark_1.png';
 import { styled } from '@mui/material/styles';
 
  

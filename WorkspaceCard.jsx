@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import React from 'react';
-import ClickAreaForDotsImage from './assets/images/click_area_for_dots.png';
+import ClickAreaForDotsImage from './assets/hello/click_area_for_dots.png';
 import { styled } from '@mui/material/styles';
 import useWorkspaceCard from './useWorkspaceCard';
  

@@ -13,9 +13,9 @@
 **********************************************************************/
 
 import React from 'react';
-import ImgIconImage from './assets/images/img_icon_9.png';
-import ImgIconImage1 from './assets/images/img_icon_10.png';
-import ImgIconImage2 from './assets/images/img_icon_11.png';
+import ImgIconImage from './assets/hello/img_icon_9.png';
+import ImgIconImage1 from './assets/hello/img_icon_10.png';
+import ImgIconImage2 from './assets/hello/img_icon_11.png';
 import { styled } from '@mui/material/styles';
 import useTypeCreateReactApp from './useTypeCreateReactApp';
  

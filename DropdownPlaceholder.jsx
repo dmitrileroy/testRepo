@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import React from 'react';
-import VectorImage from './assets/images/Vector.png';
+import VectorImage from './assets/hello/Vector.png';
 import { styled } from '@mui/material/styles';
 import useDropdownPlaceholder from './useDropdownPlaceholder';
  

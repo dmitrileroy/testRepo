@@ -13,7 +13,7 @@
 **********************************************************************/
 
 import React from 'react';
-import UpImage from './assets/images/up.png';
+import UpImage from './assets/hello/up.png';
 import { styled } from '@mui/material/styles';
 
  

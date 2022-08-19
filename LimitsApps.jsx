@@ -14,20 +14,20 @@
 
 import React from 'react';
 import { Button } from '@mui/material';
-import VectorImage from './assets/images/Vector.png';
-import XImage from './assets/images/x.png';
-import Ellipse45Image from './assets/images/Ellipse_45_11.png';
-import Ellipse451Image from './assets/images/Ellipse_45_10.png';
-import Ellipse452Image from './assets/images/Ellipse_45_9.png';
-import Ellipse453Image from './assets/images/Ellipse_45_8.png';
-import Ellipse454Image from './assets/images/Ellipse_45_7.png';
-import Ellipse455Image from './assets/images/Ellipse_45_6.png';
-import Ellipse456Image from './assets/images/Ellipse_45_5.png';
-import Ellipse457Image from './assets/images/Ellipse_45_4.png';
-import Ellipse458Image from './assets/images/Ellipse_45_3.png';
-import Ellipse459Image from './assets/images/Ellipse_45_2.png';
-import Ellipse4510Image from './assets/images/Ellipse_45_1.png';
-import Ellipse4511Image from './assets/images/Ellipse_45.png';
+import VectorImage from './assets/hello/Vector.png';
+import XImage from './assets/hello/x.png';
+import Ellipse45Image from './assets/hello/Ellipse_45_11.png';
+import Ellipse451Image from './assets/hello/Ellipse_45_10.png';
+import Ellipse452Image from './assets/hello/Ellipse_45_9.png';
+import Ellipse453Image from './assets/hello/Ellipse_45_8.png';
+import Ellipse454Image from './assets/hello/Ellipse_45_7.png';
+import Ellipse455Image from './assets/hello/Ellipse_45_6.png';
+import Ellipse456Image from './assets/hello/Ellipse_45_5.png';
+import Ellipse457Image from './assets/hello/Ellipse_45_4.png';
+import Ellipse458Image from './assets/hello/Ellipse_45_3.png';
+import Ellipse459Image from './assets/hello/Ellipse_45_2.png';
+import Ellipse4510Image from './assets/hello/Ellipse_45_1.png';
+import Ellipse4511Image from './assets/hello/Ellipse_45.png';
 import { styled } from '@mui/material/styles';
 import useLimitsApps from './useLimitsApps';
  

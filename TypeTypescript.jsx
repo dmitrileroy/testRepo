@@ -13,9 +13,9 @@
 **********************************************************************/
 
 import React from 'react';
-import ImgIconImage from './assets/images/img_icon.png';
-import ImgIconImage1 from './assets/images/img_icon_1.png';
-import ImgIconImage2 from './assets/images/img_icon_2.png';
+import ImgIconImage from './assets/hello/img_icon.png';
+import ImgIconImage1 from './assets/hello/img_icon_1.png';
+import ImgIconImage2 from './assets/hello/img_icon_2.png';
 import { styled } from '@mui/material/styles';
 import useTypeTypescript from './useTypeTypescript';
  

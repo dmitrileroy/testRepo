@@ -14,7 +14,7 @@
 
 import React from 'react';
 import { SvgIcon, Link, Button, TextField } from '@mui/material';
-import { ReactComponent as CloseFilled1 } from './assets/images/CloseFilled.svg';
+import { ReactComponent as CloseFilled1 } from './assets/hello/CloseFilled.svg';
 import { styled } from '@mui/material/styles';
 import useImportFontDialog from './useImportFontDialog';
  

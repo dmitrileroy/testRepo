@@ -13,8 +13,8 @@
 **********************************************************************/
 
 import React from 'react';
-import SeparatorImage from './assets/images/Separator_1.png';
-import Separator1Image from './assets/images/Separator.png';
+import SeparatorImage from './assets/hello/Separator_1.png';
+import Separator1Image from './assets/hello/Separator.png';
 import { styled } from '@mui/material/styles';
 import DropdownPlaceholder from './DropdownPlaceholder';
 import useWorkspaceAppBreadcrumbs from './useWorkspaceAppBreadcrumbs';
