@@ -12,7 +12,7 @@
 
 const useTypeTypescript = () => {
   let data = {};
-  const handleMouseOver = () => {};
+  const handleMouseOver = (e) => {console.log(e.target)};
   const handleMouseOut = () => {};
 
   let fns = {handleMouseOver, handleMouseOut};
